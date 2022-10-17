@@ -1,0 +1,115 @@
+.about-careers{
+    width: 100%;
+    padding-top: 19vh;
+}
+.careers-intro{
+    text-align: center;
+}
+.careers-intro h2{
+    font-size:30px;
+}
+.careers-intro p{
+    font-size:16px;
+}
+.careers-message{
+    padding-left: 30px;
+    padding-top: 30px;
+}
+.careers-message h2{
+    font-size: 25px;
+    padding-left: 30px;
+    color: #0000ff;
+}
+.careers-message p{
+    font-size: 15px;
+}
+.caregiver h2{
+    font-size: 25px;
+    padding-left: 40px;
+    color: #0000ff;
+}
+.caregiver p{
+    font-size: 15px;
+    padding-left: 30px;
+}
+.caregiver h3{
+    font-size: 20px;
+    padding-left: 40px;
+    color: #0000ff;
+}
+.case-manager h2{
+    font-size: 25px;
+    padding-left: 40px;
+    color: #0000ff;
+}
+.case-manager p{
+    font-size: 15px;
+    padding-left: 30px;
+}
+.health-aide h2{
+    font-size: 25px;
+    padding-left: 40px;
+    color: #0000ff;
+}
+.health-aide p{
+    font-size: 15px;
+    padding-left: 30px;
+}
+.apply h4{
+    font-size: 20px;
+    padding-left: 40px;
+    color: #0000ff;
+}
+.apply p{
+    font-size: 15px;
+    padding-left: 30px;
+}
+.apply span{
+    font-weight: bold;
+    font-size: 17px;
+    color: #0000ff;
+}
+.warning{
+    font-weight: bold;
+    font-size: 17px;
+}
+/* Required qualities starts */
+#quality {
+    height : 100px;
+    text-align: justify;
+    width:100%;
+    min-width: 612px;
+    padding-left: 30px;
+    padding-top: 10px;
+  } 
+  
+  .box1,
+  .box2,
+  .box3,
+  .box4 {
+    width: 14%;
+    height: 100%;
+    display: inline-block;
+    text-align: center;
+    padding-top: 25px;
+    font-size: 25px;
+    border-radius: 10px;
+  }
+  
+  .stretch {
+    width: 100%;
+    display: inline-block;
+    font-size: 0;
+    line-height: 0
+  }
+  
+  .box1,
+  .box3 {
+    background: #ccc
+  }
+  
+  .box2,
+  .box4 {
+    background: #0ff
+  }
+/* Required qualities ends */
